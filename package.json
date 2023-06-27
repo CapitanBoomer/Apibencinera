@@ -1,0 +1,15 @@
+{
+  "name": "apisofi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server ./base_de_datos.json --host 0.0.0.0 --port 626 "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
