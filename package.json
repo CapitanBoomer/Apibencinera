@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server ./base_de_datos.json --host 0.0.0.0 --port 626 "
+    "start": "json-server ./BD.json --host 0.0.0.0 --port 3000 "
   },
   "keywords": [],
   "author": "",
